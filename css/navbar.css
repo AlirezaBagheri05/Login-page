@@ -1,0 +1,43 @@
+.papa{
+    display: block !important;
+    overflow: hidden;
+}
+.div_table{
+    width: 100%;
+    overflow: auto;
+}
+.direction_rtl{
+    direction: rtl;
+}
+.ul_11 {
+    direction: rtl;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: flex-start;
+}
+body{
+    background-color: white !important;
+}
+.mg_5{
+    margin: 5px;
+}
+.animat_0_5{
+    transition: all 0.5s ease 0s;
+}
+.width_75{
+    width: 75% !important;
+}
+.width_50 {
+    width: 50% !important;
+    direction: ltr;
+}
+.form-1{
+    position: relative;
+    height: 0px;
+    overflow: hidden;
+    transition: all 0.5s;
+}
+.red_bold{
+    font-weight: bold;
+    color: #ff5b5b !important;
+}

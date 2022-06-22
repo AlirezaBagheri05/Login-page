@@ -1,0 +1,23 @@
+.img_footer{
+    width: 15%;
+    height: auto;
+}
+
+.padding_btm {
+    padding-bottom: 5px !important;
+    padding-top: 0px !important;
+}
+.network {
+    position: relative;
+    /* animation: network 24s ease infinite; */
+    width: 100%;
+    background-image: linear-gradient(270deg, #8a3ab9, #4c68d7, #cd486b, #bc2a8d, #e95950);
+    background-size: 1300% 100%;
+}
+.txt_ft{
+    direction: rtl;
+    /* display: flex; */
+    text-align: right;
+    padding: 38px;
+    background-color: #f1f1f1;
+}
