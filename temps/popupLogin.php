@@ -21,7 +21,7 @@
                 <input type="submit" class="btn btn-info btn-block btn-round" value="login">
           </form>
           
-          <div class="text-center text-muted delimiter">!ما را دنبال کنید</div>
+          <div class="text-center text-muted delimiter">!!!ما را دنبال کنید</div>
           <div class="border_radius network d-flex justify-content-center social-buttons">
              <ul class="list-unstyled list-inline text-center mb-0">
                                 <li class="list-inline-item" id="twitter">
